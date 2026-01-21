@@ -1,7 +1,1 @@
-<br><br><br>
-
-# XAMPP REPOSITORY
-
-
-
-<br><br><br>
+An old repo to auto-save our school project. :)
